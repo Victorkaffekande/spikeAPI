@@ -9,14 +9,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9d5c9a42-85ab-4648-8a8c-c68527b10c10" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.spikeAPI/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spikeAPI/PDF.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spikeAPI/db.db-shm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spikeAPI/db.db-wal" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.spikeAPI/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.spikeAPI/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spikeAPI/Controllers/WeatherForecastController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/spikeAPI/Controllers/WeatherForecastController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spikeAPI/context.cs" beforeDir="false" afterPath="$PROJECT_DIR$/spikeAPI/context.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spikeAPI/db.db" beforeDir="false" afterPath="$PROJECT_DIR$/spikeAPI/db.db" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +90,7 @@
       <updated>1668176303872</updated>
       <workItem from="1668176304033" duration="6887000" />
       <workItem from="1668190526149" duration="599000" />
-      <workItem from="1668332790180" duration="4461000" />
+      <workItem from="1668332790180" duration="9820000" />
     </task>
     <servers />
   </component>

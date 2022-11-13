@@ -34,4 +34,19 @@ public class WeatherForecastController : ControllerBase
     {
         return Ok(_context.getSingleImg(id));
     }
+
+    [HttpPost]
+    [Route("savePDF")]
+    public ActionResult savePDF(PDF pdf)
+    {
+        return Ok(_context.addPDF(pdf));
+    }
+    
+    [HttpGet]
+    [Route("getSinglePdf/{id}")]
+    public ActionResult<Img> getSinglePdf([FromRoute]int id)
+    {
+        return Ok(_context.GetSinglePdf(id));
+    }
+
 }
